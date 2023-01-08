@@ -1,0 +1,25 @@
+{
+  "name": "web-scraping-with-nodejs",
+  "version": "1.0.0",
+  "description": "Some discription...",
+  "main": "webScraping.js",
+  "scripts": {
+    "start": "nodemon webScraping.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whereishikaru/web-scraping-with-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whereishikaru/web-scraping-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/whereishikaru/web-scraping-with-nodejs#readme",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
